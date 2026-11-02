@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BoxingSpeedBag",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BoxingSpeedBag\\v_BoxingSpeedBag_g17_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BoxingSpeedBag__v_BoxingSpeedBag_g17_c05__f280a9a642c4c382.npz",
+  "decoded_frames": 461,
+  "sampled_frames": 116,
+  "detections_with_pose": 64,
+  "pose_success_rate": 0.5517241379310345,
+  "tracked_ids": 7,
+  "target_track_id": 8,
+  "target_track_pose_observations": 64,
+  "all_person_observations": 121,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 5.72
+}

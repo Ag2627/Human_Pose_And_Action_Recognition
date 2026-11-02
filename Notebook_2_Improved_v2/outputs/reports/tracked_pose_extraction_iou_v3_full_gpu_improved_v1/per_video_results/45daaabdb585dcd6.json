@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BreastStroke",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BreastStroke\\v_BreastStroke_g17_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BreastStroke__v_BreastStroke_g17_c01__45daaabdb585dcd6.npz",
+  "decoded_frames": 194,
+  "sampled_frames": 49,
+  "detections_with_pose": 6,
+  "pose_success_rate": 0.12244897959183673,
+  "tracked_ids": 9,
+  "target_track_id": 1,
+  "target_track_pose_observations": 6,
+  "all_person_observations": 17,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.94
+}

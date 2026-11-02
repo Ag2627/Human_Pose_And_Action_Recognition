@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Skiing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Skiing\\v_Skiing_g01_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Skiing__v_Skiing_g01_c05__8e1deb8cb335ebcc.npz",
+  "decoded_frames": 260,
+  "sampled_frames": 65,
+  "detections_with_pose": 17,
+  "pose_success_rate": 0.26153846153846155,
+  "tracked_ids": 8,
+  "target_track_id": 4,
+  "target_track_pose_observations": 17,
+  "all_person_observations": 41,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.91
+}

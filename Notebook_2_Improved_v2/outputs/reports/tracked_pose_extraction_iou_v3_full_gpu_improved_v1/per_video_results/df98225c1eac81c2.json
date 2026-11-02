@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "TableTennisShot",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\TableTennisShot\\v_TableTennisShot_g11_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\TableTennisShot__v_TableTennisShot_g11_c04__df98225c1eac81c2.npz",
+  "decoded_frames": 171,
+  "sampled_frames": 43,
+  "detections_with_pose": 33,
+  "pose_success_rate": 0.7674418604651163,
+  "tracked_ids": 2,
+  "target_track_id": 3,
+  "target_track_pose_observations": 33,
+  "all_person_observations": 44,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.12
+}

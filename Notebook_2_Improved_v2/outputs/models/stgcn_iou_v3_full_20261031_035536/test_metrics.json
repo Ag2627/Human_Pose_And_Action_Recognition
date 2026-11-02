@@ -1,0 +1,33 @@
+{
+  "experiment": "ST-GCN-inspired model on full tracked UCF101 pose sequences",
+  "checkpoint": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\models\\stgcn_iou_v3_full_20261031_035536\\stgcn_best.pt",
+  "best_epoch": 42,
+  "best_validation_macro_f1_supported_classes": 0.41816637846791205,
+  "test_windows": 14452,
+  "test_window_accuracy": 0.5375726543039026,
+  "test_window_balanced_accuracy": 0.43326131323129324,
+  "test_window_macro_f1_supported_classes": 0.4130954994925104,
+  "test_source_videos": 1943,
+  "test_video_accuracy": 0.5301080802882141,
+  "test_video_balanced_accuracy": 0.46486086117131303,
+  "test_video_macro_f1_supported_classes": 0.44706360024066955,
+  "classes_in_model": 100,
+  "classes_without_training_windows_excluded": [
+    "BreastStroke"
+  ],
+  "training_classes_without_validation_windows": [
+    "FrontCrawl"
+  ],
+  "training_classes_without_test_windows": [
+    "CliffDiving"
+  ],
+  "test_classes_with_support": 99,
+  "device": "cuda:0",
+  "batch_size": 8,
+  "sequence_shape": [
+    16,
+    51
+  ],
+  "architecture": "ST-GCN-inspired; 8 channels/joint from pose, confidence, velocity, speed and bone vectors",
+  "note": "Metrics are calculated over classes with support in the relevant split. Classes without training windows cannot be learned."
+}

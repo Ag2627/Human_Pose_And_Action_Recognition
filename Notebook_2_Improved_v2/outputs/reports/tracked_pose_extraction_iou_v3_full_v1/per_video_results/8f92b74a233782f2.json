@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "label": "BandMarching",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BandMarching\\v_BandMarching_g22_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BandMarching__v_BandMarching_g22_c01__8f92b74a233782f2.npz",
+  "decoded_frames": 254,
+  "sampled_frames": 64,
+  "detections_with_pose": 15,
+  "pose_success_rate": 0.234375,
+  "tracked_ids": 24,
+  "target_track_id": 27,
+  "target_track_pose_observations": 15,
+  "all_person_observations": 115,
+  "complete_video": true,
+  "seconds": 15.89
+}

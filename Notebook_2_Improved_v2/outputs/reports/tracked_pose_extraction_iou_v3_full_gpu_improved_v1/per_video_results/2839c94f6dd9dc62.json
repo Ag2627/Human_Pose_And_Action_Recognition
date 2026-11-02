@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HammerThrow",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HammerThrow\\v_HammerThrow_g24_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HammerThrow__v_HammerThrow_g24_c04__2839c94f6dd9dc62.npz",
+  "decoded_frames": 139,
+  "sampled_frames": 35,
+  "detections_with_pose": 4,
+  "pose_success_rate": 0.11428571428571428,
+  "tracked_ids": 8,
+  "target_track_id": 4,
+  "target_track_pose_observations": 4,
+  "all_person_observations": 15,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.46
+}

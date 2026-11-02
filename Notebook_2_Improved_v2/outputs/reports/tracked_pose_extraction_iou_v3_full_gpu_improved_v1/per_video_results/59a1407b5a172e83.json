@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BlowDryHair",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BlowDryHair\\v_BlowDryHair_g23_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BlowDryHair__v_BlowDryHair_g23_c05__59a1407b5a172e83.npz",
+  "decoded_frames": 379,
+  "sampled_frames": 95,
+  "detections_with_pose": 46,
+  "pose_success_rate": 0.4842105263157895,
+  "tracked_ids": 6,
+  "target_track_id": 4,
+  "target_track_pose_observations": 46,
+  "all_person_observations": 106,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.89
+}

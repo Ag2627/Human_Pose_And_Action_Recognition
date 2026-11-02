@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Rowing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Rowing\\v_Rowing_g12_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Rowing__v_Rowing_g12_c05__9983d3092a127acd.npz",
+  "decoded_frames": 753,
+  "sampled_frames": 189,
+  "detections_with_pose": 35,
+  "pose_success_rate": 0.18518518518518517,
+  "tracked_ids": 45,
+  "target_track_id": 8,
+  "target_track_pose_observations": 35,
+  "all_person_observations": 360,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 10.66
+}

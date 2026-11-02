@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "UnevenBars",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\UnevenBars\\v_UnevenBars_g16_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\UnevenBars__v_UnevenBars_g16_c05__0029758b65522809.npz",
+  "decoded_frames": 325,
+  "sampled_frames": 82,
+  "detections_with_pose": 81,
+  "pose_success_rate": 0.9878048780487805,
+  "tracked_ids": 22,
+  "target_track_id": 1,
+  "target_track_pose_observations": 81,
+  "all_person_observations": 161,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.89
+}

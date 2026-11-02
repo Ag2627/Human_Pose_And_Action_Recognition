@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "IceDancing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\IceDancing\\v_IceDancing_g12_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\IceDancing__v_IceDancing_g12_c02__25a1c547179023c1.npz",
+  "decoded_frames": 252,
+  "sampled_frames": 63,
+  "detections_with_pose": 12,
+  "pose_success_rate": 0.19047619047619047,
+  "tracked_ids": 16,
+  "target_track_id": 8,
+  "target_track_pose_observations": 12,
+  "all_person_observations": 91,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.28
+}

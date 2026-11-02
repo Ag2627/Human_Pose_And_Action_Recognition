@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Drumming",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Drumming\\v_Drumming_g12_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Drumming__v_Drumming_g12_c03__cb19d2c2d9d0f2e6.npz",
+  "decoded_frames": 300,
+  "sampled_frames": 75,
+  "detections_with_pose": 10,
+  "pose_success_rate": 0.13333333333333333,
+  "tracked_ids": 14,
+  "target_track_id": 4,
+  "target_track_pose_observations": 10,
+  "all_person_observations": 38,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.2
+}

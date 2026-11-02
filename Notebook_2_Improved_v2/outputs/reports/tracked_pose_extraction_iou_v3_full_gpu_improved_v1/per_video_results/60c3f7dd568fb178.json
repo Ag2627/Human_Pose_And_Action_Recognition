@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Rafting",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Rafting\\v_Rafting_g08_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Rafting__v_Rafting_g08_c03__60c3f7dd568fb178.npz",
+  "decoded_frames": 261,
+  "sampled_frames": 66,
+  "detections_with_pose": 5,
+  "pose_success_rate": 0.07575757575757576,
+  "tracked_ids": 17,
+  "target_track_id": 24,
+  "target_track_pose_observations": 5,
+  "all_person_observations": 40,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.69
+}

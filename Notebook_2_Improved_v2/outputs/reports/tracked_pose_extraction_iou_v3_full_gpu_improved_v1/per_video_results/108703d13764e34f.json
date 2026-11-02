@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "FieldHockeyPenalty",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\FieldHockeyPenalty\\v_FieldHockeyPenalty_g15_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\FieldHockeyPenalty__v_FieldHockeyPenalty_g15_c06__108703d13764e34f.npz",
+  "decoded_frames": 120,
+  "sampled_frames": 30,
+  "detections_with_pose": 24,
+  "pose_success_rate": 0.8,
+  "tracked_ids": 8,
+  "target_track_id": 5,
+  "target_track_pose_observations": 24,
+  "all_person_observations": 60,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.86
+}

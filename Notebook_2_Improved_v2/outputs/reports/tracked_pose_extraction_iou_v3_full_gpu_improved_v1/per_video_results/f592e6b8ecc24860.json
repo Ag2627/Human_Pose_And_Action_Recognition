@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Mixing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Mixing\\v_Mixing_g04_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Mixing__v_Mixing_g04_c01__f592e6b8ecc24860.npz",
+  "decoded_frames": 141,
+  "sampled_frames": 36,
+  "detections_with_pose": 6,
+  "pose_success_rate": 0.16666666666666666,
+  "tracked_ids": 5,
+  "target_track_id": 3,
+  "target_track_pose_observations": 6,
+  "all_person_observations": 17,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.51
+}

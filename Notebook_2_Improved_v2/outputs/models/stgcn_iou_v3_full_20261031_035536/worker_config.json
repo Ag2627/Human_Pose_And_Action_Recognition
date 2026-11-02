@@ -1,0 +1,16 @@
+{
+  "sequence_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\sequences_tracked_group_split_iou_v3_full_v1\\20261031_035536",
+  "run_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\models\\stgcn_iou_v3_full_20261031_035536",
+  "seed": 42,
+  "batch_size": 8,
+  "max_epochs": 50,
+  "patience": 9,
+  "save_every": 5,
+  "use_cuda": true,
+  "require_cuda": true,
+  "resume": true,
+  "skip_if_complete": true,
+  "learning_rate": 0.0005,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.05
+}

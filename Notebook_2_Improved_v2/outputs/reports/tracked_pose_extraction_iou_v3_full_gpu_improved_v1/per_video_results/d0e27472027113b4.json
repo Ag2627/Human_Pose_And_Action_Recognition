@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "FrontCrawl",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\FrontCrawl\\v_FrontCrawl_g04_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\FrontCrawl__v_FrontCrawl_g04_c06__d0e27472027113b4.npz",
+  "decoded_frames": 311,
+  "sampled_frames": 78,
+  "detections_with_pose": 4,
+  "pose_success_rate": 0.05128205128205128,
+  "tracked_ids": 2,
+  "target_track_id": 6,
+  "target_track_pose_observations": 4,
+  "all_person_observations": 5,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.72
+}

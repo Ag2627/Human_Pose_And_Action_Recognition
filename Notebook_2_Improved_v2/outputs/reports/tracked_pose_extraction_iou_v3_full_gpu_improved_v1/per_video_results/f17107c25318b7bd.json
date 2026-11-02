@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Billiards",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Billiards\\v_Billiards_g21_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Billiards__v_Billiards_g21_c06__f17107c25318b7bd.npz",
+  "decoded_frames": 266,
+  "sampled_frames": 67,
+  "detections_with_pose": 61,
+  "pose_success_rate": 0.9104477611940298,
+  "tracked_ids": 4,
+  "target_track_id": 1,
+  "target_track_pose_observations": 61,
+  "all_person_observations": 68,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.17
+}

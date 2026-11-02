@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "RockClimbingIndoor",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\RockClimbingIndoor\\v_RockClimbingIndoor_g07_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\RockClimbingIndoor__v_RockClimbingIndoor_g07_c06__c4f96a61068e1be2.npz",
+  "decoded_frames": 411,
+  "sampled_frames": 103,
+  "detections_with_pose": 3,
+  "pose_success_rate": 0.02912621359223301,
+  "tracked_ids": 5,
+  "target_track_id": 3,
+  "target_track_pose_observations": 3,
+  "all_person_observations": 8,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.41
+}

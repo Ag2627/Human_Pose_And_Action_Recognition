@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "epoch": 12,
+  "max_epochs": 0,
+  "best_epoch": 12,
+  "best_validation_video_macro_f1": 0.8351999774732446,
+  "test_video_accuracy": 0.8558929490478642,
+  "test_video_macro_f1": 0.8343410715137116,
+  "gpu_name": "NVIDIA RTX A4000",
+  "device": "cuda:0",
+  "last_update": "2026-11-01 03:33:47"
+}

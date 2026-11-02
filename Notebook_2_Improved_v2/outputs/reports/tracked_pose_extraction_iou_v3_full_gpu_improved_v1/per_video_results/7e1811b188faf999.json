@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HeadMassage",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HeadMassage\\v_HeadMassage_g14_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HeadMassage__v_HeadMassage_g14_c05__7e1811b188faf999.npz",
+  "decoded_frames": 99,
+  "sampled_frames": 25,
+  "detections_with_pose": 22,
+  "pose_success_rate": 0.88,
+  "tracked_ids": 8,
+  "target_track_id": 3,
+  "target_track_pose_observations": 22,
+  "all_person_observations": 45,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.45
+}

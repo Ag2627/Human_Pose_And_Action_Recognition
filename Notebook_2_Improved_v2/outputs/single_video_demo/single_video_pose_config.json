@@ -1,0 +1,22 @@
+{
+  "project_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition",
+  "yolo_weights": "C:\\Users\\admin\\ViTPose_Action_Recognition\\notebooks\\yolo11n.pt",
+  "vitpose_checkpoint": "C:\\Users\\admin\\ViTPose_Action_Recognition\\checkpoints\\epoch_209.pth",
+  "device": "cuda:0",
+  "frame_step": 4,
+  "max_decoded_frames": 0,
+  "max_people_per_frame": 2,
+  "conf": 0.2,
+  "imgsz": 640,
+  "max_det": 20,
+  "iou_threshold": 0.3,
+  "max_track_age": 30,
+  "videos": [
+    {
+      "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\video.mp4",
+      "label": "demo_unlabelled",
+      "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\single_video_demo\\single_video_tracked_pose.npz",
+      "result_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\single_video_demo\\single_video_tracked_pose.json"
+    }
+  ]
+}

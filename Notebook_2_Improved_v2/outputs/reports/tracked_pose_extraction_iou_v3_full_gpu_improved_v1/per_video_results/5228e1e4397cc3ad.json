@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "SumoWrestling",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\SumoWrestling\\v_SumoWrestling_g06_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\SumoWrestling__v_SumoWrestling_g06_c03__5228e1e4397cc3ad.npz",
+  "decoded_frames": 72,
+  "sampled_frames": 18,
+  "detections_with_pose": 8,
+  "pose_success_rate": 0.4444444444444444,
+  "tracked_ids": 7,
+  "target_track_id": 19,
+  "target_track_pose_observations": 8,
+  "all_person_observations": 36,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.12
+}

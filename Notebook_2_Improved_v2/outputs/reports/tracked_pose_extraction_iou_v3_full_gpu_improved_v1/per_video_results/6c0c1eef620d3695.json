@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Diving",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Diving\\v_Diving_g23_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Diving__v_Diving_g23_c06__6c0c1eef620d3695.npz",
+  "decoded_frames": 383,
+  "sampled_frames": 96,
+  "detections_with_pose": 55,
+  "pose_success_rate": 0.5729166666666666,
+  "tracked_ids": 11,
+  "target_track_id": 1,
+  "target_track_pose_observations": 55,
+  "all_person_observations": 83,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.45
+}

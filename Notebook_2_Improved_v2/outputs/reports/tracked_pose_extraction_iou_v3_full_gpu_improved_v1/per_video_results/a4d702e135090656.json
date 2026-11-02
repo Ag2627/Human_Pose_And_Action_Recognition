@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HandstandPushups",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HandstandPushups\\v_HandStandPushups_g22_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HandstandPushups__v_HandStandPushups_g22_c01__a4d702e135090656.npz",
+  "decoded_frames": 129,
+  "sampled_frames": 33,
+  "detections_with_pose": 21,
+  "pose_success_rate": 0.6363636363636364,
+  "tracked_ids": 2,
+  "target_track_id": 2,
+  "target_track_pose_observations": 21,
+  "all_person_observations": 33,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.62
+}

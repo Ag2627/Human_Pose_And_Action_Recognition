@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingCello",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingCello\\v_PlayingCello_g09_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingCello__v_PlayingCello_g09_c04__9e4feffd0c9847ee.npz",
+  "decoded_frames": 284,
+  "sampled_frames": 71,
+  "detections_with_pose": 46,
+  "pose_success_rate": 0.647887323943662,
+  "tracked_ids": 3,
+  "target_track_id": 1,
+  "target_track_pose_observations": 46,
+  "all_person_observations": 72,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.49
+}

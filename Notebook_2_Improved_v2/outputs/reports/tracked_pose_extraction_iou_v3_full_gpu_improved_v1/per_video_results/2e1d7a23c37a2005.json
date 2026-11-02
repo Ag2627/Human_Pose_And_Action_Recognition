@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BenchPress",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BenchPress\\v_BenchPress_g14_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BenchPress__v_BenchPress_g14_c03__2e1d7a23c37a2005.npz",
+  "decoded_frames": 105,
+  "sampled_frames": 27,
+  "detections_with_pose": 13,
+  "pose_success_rate": 0.48148148148148145,
+  "tracked_ids": 11,
+  "target_track_id": 11,
+  "target_track_pose_observations": 13,
+  "all_person_observations": 45,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.5
+}

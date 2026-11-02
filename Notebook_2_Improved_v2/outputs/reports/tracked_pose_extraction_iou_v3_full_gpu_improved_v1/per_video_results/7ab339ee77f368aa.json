@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "SkyDiving",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\SkyDiving\\v_SkyDiving_g22_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\SkyDiving__v_SkyDiving_g22_c03__7ab339ee77f368aa.npz",
+  "decoded_frames": 298,
+  "sampled_frames": 75,
+  "detections_with_pose": 63,
+  "pose_success_rate": 0.84,
+  "tracked_ids": 12,
+  "target_track_id": 3,
+  "target_track_pose_observations": 63,
+  "all_person_observations": 90,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.64
+}

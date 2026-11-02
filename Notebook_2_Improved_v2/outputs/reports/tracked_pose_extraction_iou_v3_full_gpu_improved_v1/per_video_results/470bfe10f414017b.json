@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "SoccerJuggling",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\SoccerJuggling\\v_SoccerJuggling_g18_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\SoccerJuggling__v_SoccerJuggling_g18_c03__470bfe10f414017b.npz",
+  "decoded_frames": 301,
+  "sampled_frames": 76,
+  "detections_with_pose": 54,
+  "pose_success_rate": 0.7105263157894737,
+  "tracked_ids": 8,
+  "target_track_id": 6,
+  "target_track_pose_observations": 54,
+  "all_person_observations": 87,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.64
+}

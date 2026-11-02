@@ -1,0 +1,30 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.31.37.252:8501
+  External URL: http://172.31.37.252:8501
+
+2026-10-31 12:29:12.037 Examining the path of torch.classes raised:
+Traceback (most recent call last):
+  File "C:\Users\admin\anaconda3\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ~~~~~~~~~~~~~~~~~~~~~~~~^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\anaconda3\Lib\site-packages\streamlit\watcher\local_sources_watcher.py", line 217, in get_module_paths
+    potential_paths = extract_paths(module)
+  File "C:\Users\admin\anaconda3\Lib\site-packages\streamlit\watcher\local_sources_watcher.py", line 210, in <lambda>
+    lambda m: list(m.__path__._path),
+                   ^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\anaconda3\Lib\site-packages\torch\_classes.py", line 13, in __getattr__
+    proxy = torch._C._get_custom_class_python_wrapper(self.name, attr)
+RuntimeError: Tried to instantiate class '__path__._path', but it does not exist! Ensure that it is registered via torch::class_
+OMP: Error #15: Initializing libiomp5md.dll, but found libiomp5md.dll already initialized.
+OMP: Hint This means that multiple copies of the OpenMP runtime have been linked into the program. That is dangerous, since it can degrade performance or cause incorrect results. The best thing to do is to ensure that only a single OpenMP runtime is linked into the process, e.g. by avoiding static linking of the OpenMP runtime in any library. As an unsafe, unsupported, undocumented workaround you can set the environment variable KMP_DUPLICATE_LIB_OK=TRUE to allow the program to continue to execute, but that may cause crashes or silently produce incorrect results. For more information, please see http://www.intel.com/software/products/support/.

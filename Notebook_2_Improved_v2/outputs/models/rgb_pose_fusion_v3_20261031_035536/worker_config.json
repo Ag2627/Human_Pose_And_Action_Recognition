@@ -1,0 +1,15 @@
+{
+  "sequence_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\sequences_tracked_group_split_iou_v3_full_v1\\20261031_035536",
+  "rgb_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\rgb_features_r3d18_v2",
+  "feature_index_csv": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\rgb_features_r3d18_v2\\rgb_feature_index_for_fusion.csv",
+  "run_dir": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\models\\rgb_pose_fusion_v3_20261031_035536",
+  "batch_size": 8,
+  "epochs": 0,
+  "patience": 8,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.001,
+  "label_smoothing": 0.03,
+  "minimum_free_gpu_gb": 3.0,
+  "seed": 42,
+  "inference_only": true
+}

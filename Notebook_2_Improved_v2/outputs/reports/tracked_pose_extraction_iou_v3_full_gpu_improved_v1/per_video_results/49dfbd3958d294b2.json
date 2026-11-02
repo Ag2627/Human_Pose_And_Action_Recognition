@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingDaf",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingDaf\\v_PlayingDaf_g21_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingDaf__v_PlayingDaf_g21_c02__49dfbd3958d294b2.npz",
+  "decoded_frames": 240,
+  "sampled_frames": 60,
+  "detections_with_pose": 45,
+  "pose_success_rate": 0.75,
+  "tracked_ids": 5,
+  "target_track_id": 1,
+  "target_track_pose_observations": 45,
+  "all_person_observations": 101,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.27
+}

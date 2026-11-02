@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "ThrowDiscus",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\ThrowDiscus\\v_ThrowDiscus_g06_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\ThrowDiscus__v_ThrowDiscus_g06_c02__0d2c6ae31f1b4ff0.npz",
+  "decoded_frames": 62,
+  "sampled_frames": 16,
+  "detections_with_pose": 6,
+  "pose_success_rate": 0.375,
+  "tracked_ids": 2,
+  "target_track_id": 2,
+  "target_track_pose_observations": 6,
+  "all_person_observations": 7,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 0.67
+}

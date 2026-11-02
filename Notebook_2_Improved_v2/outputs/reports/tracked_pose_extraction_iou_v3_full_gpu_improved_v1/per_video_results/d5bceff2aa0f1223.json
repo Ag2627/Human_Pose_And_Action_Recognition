@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Surfing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Surfing\\v_Surfing_g12_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Surfing__v_Surfing_g12_c05__d5bceff2aa0f1223.npz",
+  "decoded_frames": 210,
+  "sampled_frames": 53,
+  "detections_with_pose": 18,
+  "pose_success_rate": 0.33962264150943394,
+  "tracked_ids": 12,
+  "target_track_id": 7,
+  "target_track_pose_observations": 18,
+  "all_person_observations": 52,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.49
+}

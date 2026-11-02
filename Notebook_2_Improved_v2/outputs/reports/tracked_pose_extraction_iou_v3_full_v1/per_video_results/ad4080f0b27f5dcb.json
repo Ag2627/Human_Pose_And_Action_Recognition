@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "label": "BabyCrawling",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BabyCrawling\\v_BabyCrawling_g08_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BabyCrawling__v_BabyCrawling_g08_c04__ad4080f0b27f5dcb.npz",
+  "decoded_frames": 95,
+  "sampled_frames": 24,
+  "detections_with_pose": 11,
+  "pose_success_rate": 0.4583333333333333,
+  "tracked_ids": 2,
+  "target_track_id": 2,
+  "target_track_pose_observations": 11,
+  "all_person_observations": 12,
+  "complete_video": true,
+  "seconds": 2.29
+}

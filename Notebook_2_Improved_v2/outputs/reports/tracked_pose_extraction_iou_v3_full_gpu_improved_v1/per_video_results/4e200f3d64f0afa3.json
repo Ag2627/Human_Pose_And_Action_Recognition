@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "TennisSwing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\TennisSwing\\v_TennisSwing_g01_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\TennisSwing__v_TennisSwing_g01_c04__4e200f3d64f0afa3.npz",
+  "decoded_frames": 90,
+  "sampled_frames": 23,
+  "detections_with_pose": 23,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 2,
+  "target_track_id": 1,
+  "target_track_pose_observations": 23,
+  "all_person_observations": 25,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.14
+}

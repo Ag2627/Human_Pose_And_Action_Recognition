@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Lunges",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Lunges\\v_Lunges_g12_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Lunges__v_Lunges_g12_c03__f67fcf668aa794cb.npz",
+  "decoded_frames": 253,
+  "sampled_frames": 64,
+  "detections_with_pose": 64,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 16,
+  "target_track_id": 1,
+  "target_track_pose_observations": 64,
+  "all_person_observations": 79,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.12
+}

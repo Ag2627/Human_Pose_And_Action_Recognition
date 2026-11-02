@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingSitar",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingSitar\\v_PlayingSitar_g16_c07.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingSitar__v_PlayingSitar_g16_c07__3e7727336bf52657.npz",
+  "decoded_frames": 467,
+  "sampled_frames": 117,
+  "detections_with_pose": 57,
+  "pose_success_rate": 0.48717948717948717,
+  "tracked_ids": 12,
+  "target_track_id": 1,
+  "target_track_pose_observations": 57,
+  "all_person_observations": 136,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 5.68
+}

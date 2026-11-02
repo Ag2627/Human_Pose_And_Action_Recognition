@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HorseRace",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HorseRace\\v_HorseRace_g22_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HorseRace__v_HorseRace_g22_c04__121282004b1357b9.npz",
+  "decoded_frames": 352,
+  "sampled_frames": 88,
+  "detections_with_pose": 72,
+  "pose_success_rate": 0.8181818181818182,
+  "tracked_ids": 10,
+  "target_track_id": 1,
+  "target_track_pose_observations": 72,
+  "all_person_observations": 86,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.13
+}

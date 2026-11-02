@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "label": "ApplyLipstick",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\ApplyLipstick\\v_ApplyLipstick_g01_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\ApplyLipstick__v_ApplyLipstick_g01_c02__e937d121bbd24932.npz",
+  "decoded_frames": 160,
+  "sampled_frames": 40,
+  "detections_with_pose": 40,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 1,
+  "target_track_id": 1,
+  "target_track_pose_observations": 40,
+  "all_person_observations": 40,
+  "complete_video": true,
+  "seconds": 5.8
+}

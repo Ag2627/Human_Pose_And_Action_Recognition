@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "MoppingFloor",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\MoppingFloor\\v_MoppingFloor_g13_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\MoppingFloor__v_MoppingFloor_g13_c02__8d8085b21d28eed6.npz",
+  "decoded_frames": 355,
+  "sampled_frames": 89,
+  "detections_with_pose": 36,
+  "pose_success_rate": 0.4044943820224719,
+  "tracked_ids": 14,
+  "target_track_id": 14,
+  "target_track_pose_observations": 36,
+  "all_person_observations": 106,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.36
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BoxingPunchingBag",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BoxingPunchingBag\\v_BoxingPunchingBag_g18_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BoxingPunchingBag__v_BoxingPunchingBag_g18_c06__7b4749530e6f9610.npz",
+  "decoded_frames": 173,
+  "sampled_frames": 44,
+  "detections_with_pose": 28,
+  "pose_success_rate": 0.6363636363636364,
+  "tracked_ids": 12,
+  "target_track_id": 9,
+  "target_track_pose_observations": 28,
+  "all_person_observations": 86,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.64
+}

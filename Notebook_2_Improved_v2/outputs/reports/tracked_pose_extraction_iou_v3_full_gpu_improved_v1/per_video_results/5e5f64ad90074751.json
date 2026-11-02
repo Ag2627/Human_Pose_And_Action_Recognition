@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BaseballPitch",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BaseballPitch\\v_BaseballPitch_g11_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BaseballPitch__v_BaseballPitch_g11_c02__5e5f64ad90074751.npz",
+  "decoded_frames": 74,
+  "sampled_frames": 19,
+  "detections_with_pose": 18,
+  "pose_success_rate": 0.9473684210526315,
+  "tracked_ids": 4,
+  "target_track_id": 2,
+  "target_track_pose_observations": 18,
+  "all_person_observations": 38,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.23
+}

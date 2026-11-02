@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "StillRings",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\StillRings\\v_StillRings_g22_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\StillRings__v_StillRings_g22_c04__38d2322b0824c1b5.npz",
+  "decoded_frames": 271,
+  "sampled_frames": 68,
+  "detections_with_pose": 5,
+  "pose_success_rate": 0.07352941176470588,
+  "tracked_ids": 4,
+  "target_track_id": 3,
+  "target_track_pose_observations": 5,
+  "all_person_observations": 10,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.39
+}

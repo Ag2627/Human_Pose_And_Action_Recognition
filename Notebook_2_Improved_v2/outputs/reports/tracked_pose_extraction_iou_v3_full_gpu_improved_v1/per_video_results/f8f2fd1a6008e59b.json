@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Nunchucks",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Nunchucks\\v_Nunchucks_g09_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Nunchucks__v_Nunchucks_g09_c02__f8f2fd1a6008e59b.npz",
+  "decoded_frames": 276,
+  "sampled_frames": 69,
+  "detections_with_pose": 69,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 1,
+  "target_track_id": 1,
+  "target_track_pose_observations": 69,
+  "all_person_observations": 69,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 6.08
+}

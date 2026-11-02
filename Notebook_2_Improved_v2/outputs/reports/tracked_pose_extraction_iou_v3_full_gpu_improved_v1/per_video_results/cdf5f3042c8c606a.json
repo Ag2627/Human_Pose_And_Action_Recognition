@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "BrushingTeeth",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BrushingTeeth\\v_BrushingTeeth_g17_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BrushingTeeth__v_BrushingTeeth_g17_c01__cdf5f3042c8c606a.npz",
+  "decoded_frames": 104,
+  "sampled_frames": 26,
+  "detections_with_pose": 25,
+  "pose_success_rate": 0.9615384615384616,
+  "tracked_ids": 3,
+  "target_track_id": 2,
+  "target_track_pose_observations": 25,
+  "all_person_observations": 38,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.47
+}

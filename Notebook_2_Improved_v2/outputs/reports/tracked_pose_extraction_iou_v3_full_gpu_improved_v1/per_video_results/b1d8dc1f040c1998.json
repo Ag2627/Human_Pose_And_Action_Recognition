@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "MilitaryParade",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\MilitaryParade\\v_MilitaryParade_g07_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\MilitaryParade__v_MilitaryParade_g07_c04__b1d8dc1f040c1998.npz",
+  "decoded_frames": 156,
+  "sampled_frames": 39,
+  "detections_with_pose": 22,
+  "pose_success_rate": 0.5641025641025641,
+  "tracked_ids": 15,
+  "target_track_id": 2,
+  "target_track_pose_observations": 22,
+  "all_person_observations": 73,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.25
+}

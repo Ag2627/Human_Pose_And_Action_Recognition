@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "RopeClimbing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\RopeClimbing\\v_RopeClimbing_g18_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\RopeClimbing__v_RopeClimbing_g18_c04__7b5d787e0fd4249c.npz",
+  "decoded_frames": 204,
+  "sampled_frames": 51,
+  "detections_with_pose": 27,
+  "pose_success_rate": 0.5294117647058824,
+  "tracked_ids": 9,
+  "target_track_id": 1,
+  "target_track_pose_observations": 27,
+  "all_person_observations": 102,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.01
+}

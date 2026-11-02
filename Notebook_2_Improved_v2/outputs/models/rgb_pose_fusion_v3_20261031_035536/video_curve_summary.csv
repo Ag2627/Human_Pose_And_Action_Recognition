@@ -1,0 +1,5 @@
+Metric,Value
+Macro-average ROC-AUC,0.9951591439357264
+Micro-average ROC-AUC,0.9957220829618915
+Macro-average Average Precision,0.9145537911685084
+Micro-average Average Precision,0.9191595331075707

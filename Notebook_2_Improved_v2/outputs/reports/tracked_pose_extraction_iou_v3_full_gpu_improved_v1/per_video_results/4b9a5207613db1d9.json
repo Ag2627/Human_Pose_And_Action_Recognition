@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "CricketShot",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\CricketShot\\v_CricketShot_g03_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\CricketShot__v_CricketShot_g03_c03__4b9a5207613db1d9.npz",
+  "decoded_frames": 93,
+  "sampled_frames": 24,
+  "detections_with_pose": 16,
+  "pose_success_rate": 0.6666666666666666,
+  "tracked_ids": 6,
+  "target_track_id": 1,
+  "target_track_pose_observations": 16,
+  "all_person_observations": 37,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.4
+}

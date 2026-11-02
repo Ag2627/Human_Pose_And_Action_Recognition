@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PommelHorse",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PommelHorse\\v_PommelHorse_g13_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PommelHorse__v_PommelHorse_g13_c06__7687ab22de35ca5e.npz",
+  "decoded_frames": 304,
+  "sampled_frames": 76,
+  "detections_with_pose": 41,
+  "pose_success_rate": 0.5394736842105263,
+  "tracked_ids": 17,
+  "target_track_id": 14,
+  "target_track_pose_observations": 41,
+  "all_person_observations": 83,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.65
+}

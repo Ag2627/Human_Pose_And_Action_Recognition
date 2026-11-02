@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Typing\\v_Typing_g01_c01.avi",
+  "decoded_frames": 60,
+  "inferred_frames": 30,
+  "frames_with_person_detection": 30,
+  "detection_frame_rate": 1.0,
+  "unique_track_ids": [
+    1
+  ],
+  "unique_track_count": 1,
+  "detections_per_track_id": {
+    "1": 30
+  },
+  "preview_count": 7,
+  "detections_csv": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\outputs\\person_id_iou_pilot_v1\\iou_tracking_detections.csv",
+  "elapsed_seconds": 3.45,
+  "method": "YOLO.predict + greedy IoU association; not ByteTrack"
+}

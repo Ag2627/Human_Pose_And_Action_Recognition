@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Biking",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Biking\\v_Biking_g08_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Biking__v_Biking_g08_c02__7850ec90ca5fe767.npz",
+  "decoded_frames": 123,
+  "sampled_frames": 31,
+  "detections_with_pose": 2,
+  "pose_success_rate": 0.06451612903225806,
+  "tracked_ids": 4,
+  "target_track_id": 6,
+  "target_track_pose_observations": 2,
+  "all_person_observations": 7,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.21
+}

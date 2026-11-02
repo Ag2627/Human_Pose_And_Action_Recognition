@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "label": "ApplyEyeMakeup",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\ApplyEyeMakeup\\v_ApplyEyeMakeup_g06_c07.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\ApplyEyeMakeup__v_ApplyEyeMakeup_g06_c07__1a478e2002e109d8.npz",
+  "decoded_frames": 167,
+  "sampled_frames": 42,
+  "detections_with_pose": 42,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 4,
+  "target_track_id": 1,
+  "target_track_pose_observations": 42,
+  "all_person_observations": 47,
+  "complete_video": true,
+  "seconds": 6.45
+}

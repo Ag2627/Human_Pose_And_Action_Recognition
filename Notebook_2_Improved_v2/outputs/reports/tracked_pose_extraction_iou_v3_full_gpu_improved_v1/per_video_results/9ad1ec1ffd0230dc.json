@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Shotput",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Shotput\\v_Shotput_g16_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Shotput__v_Shotput_g16_c06__9ad1ec1ffd0230dc.npz",
+  "decoded_frames": 119,
+  "sampled_frames": 30,
+  "detections_with_pose": 28,
+  "pose_success_rate": 0.9333333333333333,
+  "tracked_ids": 2,
+  "target_track_id": 1,
+  "target_track_pose_observations": 28,
+  "all_person_observations": 30,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.45
+}

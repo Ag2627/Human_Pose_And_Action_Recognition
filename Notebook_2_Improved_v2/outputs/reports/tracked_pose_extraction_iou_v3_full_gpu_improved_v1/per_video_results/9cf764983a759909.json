@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "GolfSwing",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\GolfSwing\\v_GolfSwing_g03_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\GolfSwing__v_GolfSwing_g03_c06__9cf764983a759909.npz",
+  "decoded_frames": 252,
+  "sampled_frames": 63,
+  "detections_with_pose": 63,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 1,
+  "target_track_id": 1,
+  "target_track_pose_observations": 63,
+  "all_person_observations": 63,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.93
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Archery",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Archery\\v_Archery_g14_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Archery__v_Archery_g14_c01__f0c5af4da4526eb3.npz",
+  "decoded_frames": 207,
+  "sampled_frames": 52,
+  "detections_with_pose": 44,
+  "pose_success_rate": 0.8461538461538461,
+  "tracked_ids": 4,
+  "target_track_id": 1,
+  "target_track_pose_observations": 44,
+  "all_person_observations": 52,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.53
+}

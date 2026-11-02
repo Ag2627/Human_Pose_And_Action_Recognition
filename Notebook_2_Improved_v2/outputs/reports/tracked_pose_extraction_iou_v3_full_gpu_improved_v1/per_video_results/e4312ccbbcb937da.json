@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "CleanAndJerk",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\CleanAndJerk\\v_CleanAndJerk_g24_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\CleanAndJerk__v_CleanAndJerk_g24_c03__e4312ccbbcb937da.npz",
+  "decoded_frames": 235,
+  "sampled_frames": 59,
+  "detections_with_pose": 47,
+  "pose_success_rate": 0.7966101694915254,
+  "tracked_ids": 8,
+  "target_track_id": 5,
+  "target_track_pose_observations": 47,
+  "all_person_observations": 118,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 6.56
+}

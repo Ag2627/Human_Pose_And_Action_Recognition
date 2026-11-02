@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HandstandWalking",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HandstandWalking\\v_HandstandWalking_g19_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HandstandWalking__v_HandstandWalking_g19_c01__368f8e14f0c1f1bf.npz",
+  "decoded_frames": 221,
+  "sampled_frames": 56,
+  "detections_with_pose": 43,
+  "pose_success_rate": 0.7678571428571429,
+  "tracked_ids": 4,
+  "target_track_id": 3,
+  "target_track_pose_observations": 43,
+  "all_person_observations": 48,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.55
+}

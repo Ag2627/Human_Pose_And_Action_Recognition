@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "ShavingBeard",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\ShavingBeard\\v_ShavingBeard_g22_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\ShavingBeard__v_ShavingBeard_g22_c01__10ee51cc4e5fe836.npz",
+  "decoded_frames": 300,
+  "sampled_frames": 75,
+  "detections_with_pose": 74,
+  "pose_success_rate": 0.9866666666666667,
+  "tracked_ids": 7,
+  "target_track_id": 1,
+  "target_track_pose_observations": 74,
+  "all_person_observations": 145,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 4.21
+}

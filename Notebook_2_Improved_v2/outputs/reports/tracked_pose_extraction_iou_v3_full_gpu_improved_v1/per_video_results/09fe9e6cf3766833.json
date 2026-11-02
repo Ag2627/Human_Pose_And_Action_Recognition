@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Haircut",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Haircut\\v_Haircut_g22_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Haircut__v_Haircut_g22_c01__09fe9e6cf3766833.npz",
+  "decoded_frames": 99,
+  "sampled_frames": 25,
+  "detections_with_pose": 23,
+  "pose_success_rate": 0.92,
+  "tracked_ids": 4,
+  "target_track_id": 2,
+  "target_track_pose_observations": 23,
+  "all_person_observations": 49,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.55
+}

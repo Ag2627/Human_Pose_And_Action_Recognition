@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "JumpRope",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\JumpRope\\v_JumpRope_g22_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\JumpRope__v_JumpRope_g22_c06__6b7c3eb65251b330.npz",
+  "decoded_frames": 221,
+  "sampled_frames": 56,
+  "detections_with_pose": 25,
+  "pose_success_rate": 0.44642857142857145,
+  "tracked_ids": 4,
+  "target_track_id": 1,
+  "target_track_pose_observations": 25,
+  "all_person_observations": 63,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.71
+}

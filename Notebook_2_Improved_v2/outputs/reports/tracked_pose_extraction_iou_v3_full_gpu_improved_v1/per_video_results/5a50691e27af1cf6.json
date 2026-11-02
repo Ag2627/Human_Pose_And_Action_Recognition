@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "FloorGymnastics",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\FloorGymnastics\\v_FloorGymnastics_g10_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\FloorGymnastics__v_FloorGymnastics_g10_c04__5a50691e27af1cf6.npz",
+  "decoded_frames": 137,
+  "sampled_frames": 35,
+  "detections_with_pose": 20,
+  "pose_success_rate": 0.5714285714285714,
+  "tracked_ids": 23,
+  "target_track_id": 22,
+  "target_track_pose_observations": 20,
+  "all_person_observations": 68,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.09
+}

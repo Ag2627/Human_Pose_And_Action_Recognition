@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "label": "BalanceBeam",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\BalanceBeam\\v_BalanceBeam_g06_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\BalanceBeam__v_BalanceBeam_g06_c01__09fcf4dce9654b4a.npz",
+  "decoded_frames": 106,
+  "sampled_frames": 27,
+  "detections_with_pose": 11,
+  "pose_success_rate": 0.4074074074074074,
+  "tracked_ids": 16,
+  "target_track_id": 2,
+  "target_track_pose_observations": 11,
+  "all_person_observations": 43,
+  "complete_video": true,
+  "seconds": 4.97
+}

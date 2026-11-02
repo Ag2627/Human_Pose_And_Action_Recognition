@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "JugglingBalls",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\JugglingBalls\\v_JugglingBalls_g19_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\JugglingBalls__v_JugglingBalls_g19_c03__5542cd0eb987c23a.npz",
+  "decoded_frames": 236,
+  "sampled_frames": 59,
+  "detections_with_pose": 32,
+  "pose_success_rate": 0.5423728813559322,
+  "tracked_ids": 4,
+  "target_track_id": 3,
+  "target_track_pose_observations": 32,
+  "all_person_observations": 43,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.58
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "FrisbeeCatch",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\FrisbeeCatch\\v_FrisbeeCatch_g01_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\FrisbeeCatch__v_FrisbeeCatch_g01_c01__689ef49524d18840.npz",
+  "decoded_frames": 103,
+  "sampled_frames": 26,
+  "detections_with_pose": 4,
+  "pose_success_rate": 0.15384615384615385,
+  "tracked_ids": 21,
+  "target_track_id": 8,
+  "target_track_pose_observations": 4,
+  "all_person_observations": 41,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.47
+}

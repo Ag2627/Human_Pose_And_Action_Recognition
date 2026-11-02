@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "VolleyballSpiking",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\VolleyballSpiking\\v_VolleyballSpiking_g24_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\VolleyballSpiking__v_VolleyballSpiking_g24_c01__4d656deaad565d23.npz",
+  "decoded_frames": 117,
+  "sampled_frames": 30,
+  "detections_with_pose": 9,
+  "pose_success_rate": 0.3,
+  "tracked_ids": 18,
+  "target_track_id": 15,
+  "target_track_pose_observations": 9,
+  "all_person_observations": 49,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.61
+}

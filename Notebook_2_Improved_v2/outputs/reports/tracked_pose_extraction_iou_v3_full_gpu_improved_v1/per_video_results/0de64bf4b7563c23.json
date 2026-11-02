@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Knitting",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Knitting\\v_Knitting_g05_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Knitting__v_Knitting_g05_c02__0de64bf4b7563c23.npz",
+  "decoded_frames": 265,
+  "sampled_frames": 67,
+  "detections_with_pose": 33,
+  "pose_success_rate": 0.4925373134328358,
+  "tracked_ids": 9,
+  "target_track_id": 1,
+  "target_track_pose_observations": 33,
+  "all_person_observations": 84,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.3
+}

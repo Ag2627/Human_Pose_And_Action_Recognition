@@ -1,0 +1,13 @@
+source_notebook,model_family,experiment,window_test_accuracy,window_test_balanced_accuracy,window_test_macro_f1_supported_classes,window_test_macro_f1_all_model_classes,test_windows,metrics_file
+Notebook 2 V2,RGB + pose fusion,late RGB + enriched tracked-pose fusion,0.8360088569056185,0.8349776113886009,0.8079590080457276,,14452.0,C:\Users\admin\ViTPose_Action_Recognition\Notebook_2_Improved_v2\outputs\models\rgb_pose_fusion_v3_20261031_035536\test_metrics.json
+Notebook 2 V2,ST-GCN-inspired,ST-GCN-inspired model on full tracked UCF101 pose sequences,0.5375726543039026,0.43326131323129324,0.4130954994925104,,14452.0,C:\Users\admin\ViTPose_Action_Recognition\Notebook_2_Improved_v2\outputs\models\stgcn_iou_v3_full_20261031_035536\test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,0.6854681327050312,,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\video_level_aggregation_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,0.6532438478747203,0.5632841415704871,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\motion119_corrected_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,0.6529106573373317,0.563500222611929,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\motion119_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,0.6396782331381788,0.550724175369975,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\normal_lstm_attention_test_metrics.json
+Notebook 1 / legacy,LSTM / BiLSTM pose,BiLSTM + temporal attention on group-aware randomized split,0.4714025500910747,,,,21960.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\bilstm_attention_group_split_v1_20261030_095320\bilstm_attention_group_split_v1_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,,,,,50.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\lstm_5class_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,,,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\lstm_bilstm_attention_regularized_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,,,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\lstm_bilstm_attention_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,,,,,21009.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\lstm_current53_batch8_test_metrics.json
+Notebook 1 / legacy,Other / legacy,reports,,,,,21960.0,C:\Users\admin\ViTPose_Action_Recognition\outputs\reports\lstm_ucf101_group_split_v1_test_metrics.json

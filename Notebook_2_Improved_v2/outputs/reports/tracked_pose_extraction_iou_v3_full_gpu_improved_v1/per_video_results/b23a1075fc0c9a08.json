@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Kayaking",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Kayaking\\v_Kayaking_g01_c06.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Kayaking__v_Kayaking_g01_c06__b23a1075fc0c9a08.npz",
+  "decoded_frames": 198,
+  "sampled_frames": 50,
+  "detections_with_pose": 45,
+  "pose_success_rate": 0.9,
+  "tracked_ids": 5,
+  "target_track_id": 1,
+  "target_track_pose_observations": 45,
+  "all_person_observations": 61,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.54
+}

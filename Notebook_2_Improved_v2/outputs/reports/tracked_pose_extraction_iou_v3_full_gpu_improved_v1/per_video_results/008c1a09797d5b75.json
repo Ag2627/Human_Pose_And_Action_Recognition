@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "JavelinThrow",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\JavelinThrow\\v_JavelinThrow_g07_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\JavelinThrow__v_JavelinThrow_g07_c03__008c1a09797d5b75.npz",
+  "decoded_frames": 66,
+  "sampled_frames": 17,
+  "detections_with_pose": 16,
+  "pose_success_rate": 0.9411764705882353,
+  "tracked_ids": 2,
+  "target_track_id": 1,
+  "target_track_pose_observations": 16,
+  "all_person_observations": 17,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 0.84
+}

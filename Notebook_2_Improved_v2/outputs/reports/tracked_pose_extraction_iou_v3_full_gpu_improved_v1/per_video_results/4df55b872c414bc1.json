@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingTabla",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingTabla\\v_PlayingTabla_g21_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingTabla__v_PlayingTabla_g21_c04__4df55b872c414bc1.npz",
+  "decoded_frames": 288,
+  "sampled_frames": 72,
+  "detections_with_pose": 72,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 1,
+  "target_track_id": 1,
+  "target_track_pose_observations": 72,
+  "all_person_observations": 72,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 3.41
+}

@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingDhol",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingDhol\\v_PlayingDhol_g22_c07.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingDhol__v_PlayingDhol_g22_c07__6b2eb0d6ee65d43f.npz",
+  "decoded_frames": 180,
+  "sampled_frames": 45,
+  "detections_with_pose": 23,
+  "pose_success_rate": 0.5111111111111111,
+  "tracked_ids": 5,
+  "target_track_id": 3,
+  "target_track_pose_observations": 23,
+  "all_person_observations": 72,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 5.77
+}

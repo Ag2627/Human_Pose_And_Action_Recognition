@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "CricketBowling",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\CricketBowling\\v_CricketBowling_g15_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\CricketBowling__v_CricketBowling_g15_c01__a6fb9f49d4a7305a.npz",
+  "decoded_frames": 93,
+  "sampled_frames": 24,
+  "detections_with_pose": 17,
+  "pose_success_rate": 0.7083333333333334,
+  "tracked_ids": 3,
+  "target_track_id": 1,
+  "target_track_pose_observations": 17,
+  "all_person_observations": 48,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.47
+}

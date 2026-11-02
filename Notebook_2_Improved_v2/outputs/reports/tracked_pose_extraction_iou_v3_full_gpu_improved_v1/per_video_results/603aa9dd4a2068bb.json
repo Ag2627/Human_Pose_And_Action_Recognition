@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Bowling",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Bowling\\v_Bowling_g17_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Bowling__v_Bowling_g17_c01__603aa9dd4a2068bb.npz",
+  "decoded_frames": 169,
+  "sampled_frames": 43,
+  "detections_with_pose": 36,
+  "pose_success_rate": 0.8372093023255814,
+  "tracked_ids": 8,
+  "target_track_id": 5,
+  "target_track_pose_observations": 36,
+  "all_person_observations": 86,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.6
+}

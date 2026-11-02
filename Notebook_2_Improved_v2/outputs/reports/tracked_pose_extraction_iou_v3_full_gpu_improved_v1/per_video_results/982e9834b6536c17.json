@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PullUps",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PullUps\\v_PullUps_g18_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PullUps__v_PullUps_g18_c01__982e9834b6536c17.npz",
+  "decoded_frames": 155,
+  "sampled_frames": 39,
+  "detections_with_pose": 24,
+  "pose_success_rate": 0.6153846153846154,
+  "tracked_ids": 3,
+  "target_track_id": 1,
+  "target_track_pose_observations": 24,
+  "all_person_observations": 32,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.81
+}

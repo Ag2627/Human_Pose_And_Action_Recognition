@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "TrampolineJumping",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\TrampolineJumping\\v_TrampolineJumping_g23_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\TrampolineJumping__v_TrampolineJumping_g23_c01__dffbd761562cc318.npz",
+  "decoded_frames": 151,
+  "sampled_frames": 38,
+  "detections_with_pose": 10,
+  "pose_success_rate": 0.2631578947368421,
+  "tracked_ids": 6,
+  "target_track_id": 1,
+  "target_track_pose_observations": 10,
+  "all_person_observations": 24,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.63
+}

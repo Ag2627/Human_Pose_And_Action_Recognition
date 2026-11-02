@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "SkateBoarding",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\SkateBoarding\\v_SkateBoarding_g04_c05.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\SkateBoarding__v_SkateBoarding_g04_c05__d4afa9ce7f45a2f9.npz",
+  "decoded_frames": 103,
+  "sampled_frames": 26,
+  "detections_with_pose": 3,
+  "pose_success_rate": 0.11538461538461539,
+  "tracked_ids": 4,
+  "target_track_id": 4,
+  "target_track_pose_observations": 3,
+  "all_person_observations": 10,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.06
+}

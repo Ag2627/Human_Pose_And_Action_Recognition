@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "LongJump",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\LongJump\\v_LongJump_g02_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\LongJump__v_LongJump_g02_c02__a3b413be188c365a.npz",
+  "decoded_frames": 116,
+  "sampled_frames": 29,
+  "detections_with_pose": 7,
+  "pose_success_rate": 0.2413793103448276,
+  "tracked_ids": 19,
+  "target_track_id": 48,
+  "target_track_pose_observations": 7,
+  "all_person_observations": 58,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.74
+}

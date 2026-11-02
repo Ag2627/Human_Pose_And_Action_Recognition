@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "PlayingFlute",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\PlayingFlute\\v_PlayingFlute_g21_c04.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\PlayingFlute__v_PlayingFlute_g21_c04__d3476a59e7b7ed78.npz",
+  "decoded_frames": 459,
+  "sampled_frames": 115,
+  "detections_with_pose": 115,
+  "pose_success_rate": 1.0,
+  "tracked_ids": 1,
+  "target_track_id": 1,
+  "target_track_pose_observations": 115,
+  "all_person_observations": 115,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 5.44
+}

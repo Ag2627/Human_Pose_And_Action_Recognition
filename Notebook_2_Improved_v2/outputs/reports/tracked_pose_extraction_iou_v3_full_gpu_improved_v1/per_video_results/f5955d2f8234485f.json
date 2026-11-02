@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HulaHoop",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HulaHoop\\v_HulaHoop_g21_c01.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HulaHoop__v_HulaHoop_g21_c01__f5955d2f8234485f.npz",
+  "decoded_frames": 96,
+  "sampled_frames": 24,
+  "detections_with_pose": 20,
+  "pose_success_rate": 0.8333333333333334,
+  "tracked_ids": 7,
+  "target_track_id": 4,
+  "target_track_pose_observations": 20,
+  "all_person_observations": 45,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 1.41
+}

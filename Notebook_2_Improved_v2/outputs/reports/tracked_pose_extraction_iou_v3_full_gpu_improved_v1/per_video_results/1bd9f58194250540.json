@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "Skijet",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\Skijet\\v_Skijet_g13_c02.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\Skijet__v_Skijet_g13_c02__1bd9f58194250540.npz",
+  "decoded_frames": 210,
+  "sampled_frames": 53,
+  "detections_with_pose": 6,
+  "pose_success_rate": 0.11320754716981132,
+  "tracked_ids": 25,
+  "target_track_id": 18,
+  "target_track_pose_observations": 6,
+  "all_person_observations": 41,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.3
+}

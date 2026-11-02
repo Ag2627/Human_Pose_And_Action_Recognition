@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "label": "HorseRiding",
+  "video_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\data\\raw\\ucf_sports\\HorseRiding\\v_HorseRiding_g19_c03.avi",
+  "output_path": "C:\\Users\\admin\\ViTPose_Action_Recognition\\Notebook_2_Improved_v2\\data\\tracked_keypoints_iou_v3_full_v1\\HorseRiding__v_HorseRiding_g19_c03__cb38a5d3fb558a10.npz",
+  "decoded_frames": 191,
+  "sampled_frames": 48,
+  "detections_with_pose": 10,
+  "pose_success_rate": 0.20833333333333334,
+  "tracked_ids": 28,
+  "target_track_id": 2,
+  "target_track_pose_observations": 10,
+  "all_person_observations": 47,
+  "inference_device": "cuda:0",
+  "complete_video": true,
+  "seconds": 2.19
+}
